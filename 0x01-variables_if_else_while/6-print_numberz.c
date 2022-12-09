@@ -1,4 +1,4 @@
-#include <stdio.d>
+#include <stdio.h>
 #include <stdlib.h>
 /**
  * main - Return nums from 0-10
