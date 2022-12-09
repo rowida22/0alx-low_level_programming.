@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - Return nums speratred by , and space 
+ * main - Return nums speratred by , and space
  *
  * Return: Always 0 (success)
  */
