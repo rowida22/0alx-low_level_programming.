@@ -26,12 +26,10 @@ int main(void)
 	{
 		printf("%d and is less than 6 and not 0\n", num);
 	}
-	else if
+	else 
 	{
 		printf("%d and is 0\n", num);
 	}
-	else
-	{
-		return(0);
-	}
+
+	return(0);
 }
