@@ -5,7 +5,7 @@
  * @n: THe int to be operated upon
  * Return: returns an unsigneed int value to calling function
  */
-int _abs(int)
+int _abs(int n)
 {
 	if (n > 0)
 	{
