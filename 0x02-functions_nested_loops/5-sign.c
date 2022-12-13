@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_sign - return 0 letter not lowercase, 1 letter lowercase 
+ * print_sign - return 0 letter not lowercase, 1 letter lowercase
  *
  * @n : number to check
- * return : 0 or 1
+ * Return: 0 or 1
  */
 int print_sign(int n)
 {
@@ -26,4 +26,3 @@ int print_sign(int n)
 	}
 	return (check);
 }
-
