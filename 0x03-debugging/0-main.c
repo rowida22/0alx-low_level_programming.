@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * main - test function if int is positive or negative
@@ -7,9 +6,7 @@
  */
 int main(void)
 {
-	int i;
-
-	i = 0;
+	int i = 0;
 
 	positive_or_negative(i);
 
