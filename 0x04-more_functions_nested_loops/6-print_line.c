@@ -2,17 +2,17 @@
 
 /**
  * print_line -  draws a line
+ * @n: parameter
  * Return: new line
  */
 
 void print_line(int n)
 {
-	int i = 1;
+	int i;
 
-	if (i <= n)
+	for (i = 1; i <= n; i++)
 	{
 		_putchar(95);
-		i++;
 	}
 	_putchar('\n');
 }
