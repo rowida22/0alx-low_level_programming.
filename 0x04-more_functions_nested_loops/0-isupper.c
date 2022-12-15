@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check if char is uppercase or lowercase
+ * _isupper - check if char is uppercase
  * @c: parameter
- * return : 0 Done
+ * Return : 0 Done
  *
  */
 
