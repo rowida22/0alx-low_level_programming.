@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_diagonal -  draws a diagonal line
- * Return: \n
+ * print_line -  draws a line
+ * Return: new line
  */
 
 void print_line(int n)
