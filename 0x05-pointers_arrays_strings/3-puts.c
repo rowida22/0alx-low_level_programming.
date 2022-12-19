@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * _puts : function that prints a string, followed by a new line,
+ * _puts - function that prints a string, followed by a new line, to stdout
  * @str: pointer val
  * Return: 0
  */
