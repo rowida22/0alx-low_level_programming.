@@ -1,7 +1,5 @@
 #include <stdio.h>
-/**
- * main - return 0
- */
+
 int main(void)
 {
 	int n;
@@ -10,7 +8,6 @@ int main(void)
 
 	a[2] = 1024;
 	p = &n;
-
 	/**
 	 * write your line of code here...
 	 * Remember:
